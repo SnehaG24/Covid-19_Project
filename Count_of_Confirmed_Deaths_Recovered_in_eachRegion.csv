@@ -1,0 +1,188 @@
+Region,Confirmed,Deaths,Recovered
+US,1039909,60967,120720
+Spain,236899,24275,132929
+Italy,203591,27682,71252
+France,166543,24121,49118
+UK,166441,26166,857
+Germany,161539,6467,120400
+Turkey,117589,3081,44040
+Russia,99399,972,10286
+Iran,93657,5957,73791
+Mainland China,82862,4633,77610
+Brazil,79685,5513,34132
+Canada,52865,3155,20327
+Belgium,47859,7501,11283
+Netherlands,38998,4727,119
+Peru,33931,943,10037
+India,33062,1079,8437
+Switzerland,29407,1716,22600
+Ecuador,24675,883,1557
+Portugal,24505,973,1470
+Saudi Arabia,21402,157,2953
+Sweden,20302,2462,1005
+Ireland,20253,1190,13386
+Mexico,17799,1732,11423
+Israel,15834,215,8233
+Singapore,15641,14,1188
+Pakistan,15525,343,3425
+Austria,15402,580,12779
+Chile,14885,216,8057
+Japan,13895,413,2368
+Belarus,13181,84,2072
+Poland,12640,624,3025
+Qatar,12564,10,1243
+Romania,11978,693,3569
+United Arab Emirates,11929,98,2329
+South Korea,10765,247,9059
+Ukraine,9866,250,1103
+Indonesia,9771,784,1391
+Denmark,9206,443,6558
+Philippines,8212,558,1023
+Norway,7710,207,32
+Czech Republic,7579,227,3108
+Bangladesh,7103,163,150
+Australia,6752,91,5715
+Dominican Republic,6652,293,1228
+Serbia,6630,125,870
+Panama,6378,178,527
+Colombia,6207,278,1411
+Malaysia,5945,100,4087
+South Africa,5350,103,2073
+Egypt,5268,380,1335
+Finland,4906,206,2800
+Morocco,4321,168,928
+Argentina,4285,214,1192
+Algeria,3848,444,1702
+Moldova,3771,111,1114
+Luxembourg,3769,89,3134
+Kuwait,3740,24,1389
+Kazakhstan,3138,25,819
+Thailand,2947,54,2665
+Bahrain,2921,8,1455
+Hungary,2727,300,536
+Greece,2576,139,577
+Oman,2274,10,364
+Croatia,2062,67,1288
+Iraq,2003,92,1346
+Uzbekistan,2002,9,1096
+Afghanistan,1939,60,252
+Armenia,1932,30,900
+Cameroon,1832,61,934
+Iceland,1797,10,1656
+Azerbaijan,1766,23,1267
+Nigeria,1728,51,307
+Bosnia and Herzegovina,1677,65,710
+Ghana,1671,16,188
+Estonia,1666,50,236
+New Zealand,1476,19,1241
+Cuba,1467,58,617
+Bulgaria,1447,64,243
+North Macedonia,1442,73,627
+Slovenia,1418,89,230
+Slovakia,1391,22,484
+Lithuania,1375,45,563
+Guinea,1351,7,313
+Ivory Coast,1238,14,557
+Bolivia,1110,59,117
+Djibouti,1077,2,599
+Hong Kong,1037,4,830
+Tunisia,980,40,294
+Senegal,882,9,315
+Latvia,849,15,348
+Cyprus,843,15,148
+Albania,766,30,455
+Andorra,743,42,423
+Honduras,738,66,73
+Kyrgyzstan,729,8,437
+Lebanon,721,24,150
+Costa Rica,713,6,323
+Niger,713,32,435
+Diamond Princess,712,13,645
+Sri Lanka,649,7,136
+Burkina Faso,641,43,498
+Uruguay,630,15,412
+Somalia,582,28,20
+San Marino,563,41,69
+Guatemala,557,16,62
+Georgia,517,6,178
+Kosovo,510,12,93
+Congo (Kinshasa),491,30,59
+Mali,482,25,129
+Tanzania,480,16,167
+Malta,463,4,339
+Jordan,451,8,356
+Taiwan,429,6,311
+Jamaica,396,7,29
+Kenya,384,15,129
+El Salvador,377,9,106
+Sudan,375,28,32
+West Bank and Gaza,344,2,71
+Mauritius,332,10,306
+Venezuela,331,10,142
+Montenegro,322,7,203
+Equatorial Guinea,315,1,9
+Maldives,278,1,17
+Gabon,276,3,67
+Vietnam,270,0,222
+Paraguay,239,9,102
+Rwanda,225,0,98
+Congo (Brazzaville),207,8,19
+Guinea-Bissau,205,1,19
+Burma,150,6,27
+Liberia,141,16,45
+Brunei,138,1,124
+Ethiopia,130,3,58
+Madagascar,128,0,90
+Cambodia,122,0,119
+Trinidad and Tobago,116,8,71
+Cabo Verde,114,1,2
+Togo,109,7,64
+Sierra Leone,104,4,12
+Zambia,97,3,54
+Monaco,95,4,58
+Eswatini,91,1,10
+Liechtenstein,82,1,55
+Uganda,81,0,52
+Barbados,80,7,39
+Bahamas,80,11,23
+Guyana,78,8,18
+Haiti,76,6,8
+Mozambique,76,0,12
+Benin,64,1,33
+Libya,61,2,18
+Nepal,57,0,16
+Chad,52,2,19
+Central African Republic,50,0,10
+Macau,45,0,34
+Syria,43,3,21
+Eritrea,39,0,19
+Mongolia,38,0,10
+Malawi,36,3,7
+South Sudan,34,0,0
+Zimbabwe,32,4,5
+Angola,27,2,7
+Timor-Leste,24,0,6
+Antigua and Barbuda,24,3,11
+Botswana,23,1,5
+Grenada,20,0,13
+Laos,19,0,7
+Belize,18,2,9
+Fiji,18,0,12
+Saint Lucia,17,0,15
+Dominica,16,0,13
+Namibia,16,0,8
+Saint Vincent and the Grenadines,16,0,8
+Saint Kitts and Nevis,15,0,4
+Nicaragua,13,3,7
+Seychelles,11,0,6
+Burundi,11,1,4
+Suriname,10,1,8
+Gambia,10,1,8
+Holy See,10,0,2
+MS Zaandam,9,2,0
+Mauritania,8,1,6
+Sao Tome and Principe,8,0,4
+Papua New Guinea,8,0,0
+Bhutan,7,0,5
+Western Sahara,6,0,5
+Yemen,6,0,1
